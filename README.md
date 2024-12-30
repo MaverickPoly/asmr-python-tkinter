@@ -4,6 +4,8 @@ Welcome to this repository of 20 Tkinter projects for beginners to intermediate 
 
 In this repository, you'll find a list of projects from simple calculators to complex apps such as File Explorer or TicTacToe Game. These projects are divided into two categories: **Beginner Level** and **Intermediate Level**. Feel free to open any of the project and take a look at the implementation.
 
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white)](#)
+
 ## Beginner Level Projects
 
 1. **Simple Calculator**
